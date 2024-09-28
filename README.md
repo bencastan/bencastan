@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bencastan
-- 👀 I’m interested in solving problems, automating repetative tasks and all things computer
+- 👀 I’m interested in solving problems, automating repetitive tasks and all things computer
 - 🌱 I’m currently learning Web stuff via the Odin Project
 - 💞️ I’m looking to collaborate on Pretty much anyhting that runs python or Go
 - 📫 How to reach me ben@castanfamily.com
